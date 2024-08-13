@@ -8,7 +8,6 @@
     left=2 cm, % seperation between body and page edge from the left
     right=2 cm, % seperation between body and page edge from the right
     footskip=1.0 cm, % seperation between body and footer
-    % showframe % for debugging 
 ]{geometry} % for adjusting page geometry
 \usepackage{titlesec} % for customizing section titles
 \usepackage{tabularx} % for making tables with fixed width columns
@@ -19,9 +18,8 @@
 \usepackage{fontawesome5} % for using icons
 \usepackage{amsmath} % for math
 \usepackage[
-    pdftitle={John Doe's CV},
-    pdfauthor={John Doe},
-    pdfcreator={LaTeX with RenderCV},
+    pdftitle={Saket Kumar's CV},
+    pdfauthor={Saket Kumar},
     colorlinks=true,
     urlcolor=primaryColor
 ]{hyperref} % for links, metadata and bookmarks
@@ -53,7 +51,7 @@
 \setcounter{secnumdepth}{0} % no section numbering
 \setlength{\parindent}{0pt} % no indentation
 \setlength{\topskip}{0pt} % no top skip
-\setlength{\columnsep}{0.15cm} % set column seperation
+\setlength{\columnsep}{0.15cm} % set column separation
 \pagenumbering{gobble} % no page numbering
 
 \titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
@@ -147,56 +145,47 @@
 % save the original href command in a new command:
 \let\hrefWithoutArrow\href
 
-% new command for external links:
-
-
 \begin{document}
     \newcommand{\AND}{\unskip \cleaders \copy \ANDbox \hskip \wd \ANDbox \ignorespaces}
     \newsavebox \ANDbox \sbox \ANDbox{$|$}
-
+    %
     \begin{header}
-        \fontsize{25 pt}{25 pt}\selectfont Saket Kumar \\
+        \fontsize{25 pt}{25 pt}\selectfont Saket Kumar\\
         \vspace{0.2 cm}
-        
+        %
         \normalsize
         \mbox{\hrefWithoutArrow{https://linkedin.com/in/saketbattu}{
             \faLinkedinIn\hspace{0.15 cm}{linkedin.com/in/saketbattu}
-        }}
-        \kern 5.0 pt
-        \AND
-        \kern 5.0 pt
+        }}\hspace{0.2 cm}|\hspace{0.2 cm}
+        %
         \mbox{\hrefWithoutArrow{https://github.com/saketbattu}{
             \faGithub\hspace{0.15 cm}{github.com/saketbattu}
-        }} \\
-
+        }}\\
+        %
         \mbox{\hrefWithoutArrow{mailto:skbattuhmo@gmail.com}{
             \faEnvelope[large]\hspace{0.15 cm}{skbattuhmo@gmail.com}
-        }}
-        \kern 5.0 pt
-        \AND
-        \kern 5.0 pt
-        \mbox{\hrefWithoutArrow{tel:+91-94605-35516}{
-            \faPhone\hspace{0.15 cm}{+91 9460535516}
-        }}
+        }}\hspace{0.2 cm}|\hspace{0.2 cm}
+        %
+        \mbox{\faPhone\hspace{0.15 cm}{+91 9460535516}}
     \end{header}
     \vspace{0.2 cm}
-
+    %
     \section{Technical Skills}
         \begin{onecolentry}
             \textbf{Languages:} C, C++, HTML, CSS, JavaScript
         \end{onecolentry}
         \vspace{0.2 cm}
-
+        %
         \begin{onecolentry}
             \textbf{Technologies:} React, NodeJS, ExpressJS, MySQL, MongoDB, Git, Docker, Unity 3D
         \end{onecolentry}
         \vspace{0.2 cm}
-
+        %
         \begin{onecolentry}
             \textbf{Concepts}
         \end{onecolentry}
         \vspace{0.1 cm}
-
+        %
         \begin{onecolentry}
             \begin{highlights}
                 \item Full-Stack Web Development (MERN Stack)
@@ -205,38 +194,13 @@
                 \item Database Management System
             \end{highlights}
         \end{onecolentry}
-
-    % \section{Experience}
-    %     \begin{twocolentry}{Sept 2003 – Apr 2005}
-    %         \textbf{Lead Student Ambassador}, Microsoft -- Redmond, WA
-    %     \end{twocolentry}
-    %     \vspace{0.1 cm}
-
-    %     \begin{onecolentry}
-    %         \begin{highlights}
-    %             \item Promoted to Lead Student Ambassador in the Fall of 2004, supervised 10-15 Student Ambassadors
-    %             \item Created and taught a computer science course, CSE 099: Software Design and Development
-    %         \end{highlights}
-    %     \end{onecolentry}
-    %     \vspace{0.2 cm}
-
-    %     \begin{twocolentry}{June 2003 – Aug 2003}
-    %         \textbf{Software Engineer, Intern}, Microsoft -- Redmond, WA
-    %     \end{twocolentry}
-    %     \vspace{0.1 cm}
-
-    %     \begin{onecolentry}
-    %         \begin{highlights}
-    %             \item Automated the extraction and processing of large datasets from legacy systems using SQL and Perl scripts
-    %         \end{highlights}
-    %     \end{onecolentry}
-    
+    %
     \section{Projects}
         \begin{twocolentry}{\href{https://play.google.com/store/apps/dev?id=5970738356311592163}{Play Store\hspace{0.15 cm}\faLink}}
             \textbf{Game Development}
         \end{twocolentry}
         \vspace{0.1 cm}
-
+        %
         \begin{onecolentry}
             \begin{highlights}
                 \item Build 3 full-fledged android games using the Unity Game Engine
@@ -246,28 +210,28 @@
                 \item Tools Used: Unity 3D, C\#, VSCode
             \end{highlights}
         \end{onecolentry}
-        % \vspace{0.2 cm}
-
-        % \begin{twocolentry}{2002}
-        %     \textbf{Operating System}
-        % \end{twocolentry}
-        % \vspace{0.1 cm}
-
-        % \begin{onecolentry}
-        %     \begin{highlights}
-        %         \item Developed a UNIX-style OS with a scheduler, file system, text editor, and calculator
-        %         \item Tools Used: C
-        %     \end{highlights}
-        % \end{onecolentry}
-
+        \vspace{0.2 cm}
+        %
+        \begin{twocolentry}{\href{https://www.google.com}{Project Link\hspace{0.15 cm}\faLink}}
+            \textbf{Lorem Ipsum}
+        \end{twocolentry}
+        \vspace{0.1 cm}
+        %
+        \begin{onecolentry}
+            \begin{highlights}
+                \item Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                \item Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            \end{highlights}
+        \end{onecolentry}
+    %
     \section{Education}
         \begin{twocolentry}{Aug 2018 – May 2022}
             \textbf{Indian Institute of Information Technology KOTA}
         \end{twocolentry}
         \vspace{0.1 cm}
-
+        %
         \begin{twocolentry}{CGPA – 6.74}
             B.Tech in Computer Science Engineering
         \end{twocolentry}
-
+    %
 \end{document}

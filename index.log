@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4 Portable) (preloaded format=pdflatex 2024.8.9)  12 AUG 2024 17:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4 Portable) (preloaded format=pdflatex 2024.8.9)  13 AUG 2024 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -539,8 +539,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 er.sty
 Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
 )
-LaTeX Font Info:    Trying to load font information for T1+bch on input line 15
-3.
+LaTeX Font Info:    Trying to load font information for T1+bch on input line 14
+8.
 
 (C:\ProgramData\scoop\apps\miktex\current\texmfs\install\tex/latex/psnfss\t1bch
 .fd
@@ -548,24 +548,24 @@ File: t1bch.fd 2004/10/18 font definitions for T1/bch.
 ) (index.aux)
 \openout1 = `index.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 153.
-LaTeX Font Info:    ... okay on input line 153.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 148.
+LaTeX Font Info:    ... okay on input line 148.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -617,73 +617,73 @@ supp-pdf.mkii
 \makeMPintoPDFobject=\count321
 \everyMPtoPDFconversion=\toks32
 )
-Package hyperref Info: Link coloring ON on input line 153.
+Package hyperref Info: Link coloring ON on input line 148.
 \ANDbox=\box66
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-55.
+50.
 
 (C:\ProgramData\scoop\apps\miktex\current\texmfs\install\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-55.
+50.
 
 (C:\ProgramData\scoop\apps\miktex\current\texmfs\install\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-155.
+150.
 
 (C:\ProgramData\scoop\apps\miktex\current\texmfs\install\tex/latex/lm\omslmsy.f
 d
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-155.
+150.
 
 (C:\ProgramData\scoop\apps\miktex\current\texmfs\install\tex/latex/lm\omxlmex.f
 d
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 155.
+(Font)              <10.95> on input line 150.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 155.
+(Font)              <8> on input line 150.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 155.
+(Font)              <6> on input line 150.
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 164.
+ input line 159.
 
 (C:\ProgramData\scoop\apps\miktex\current\texmfs\install\tex/latex/fontawesome5
 \ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> n
 ot available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 164.
+n input line 159.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 174.
+nput line 167.
 
 (C:\ProgramData\scoop\apps\miktex\current\texmfs\install\tex/latex/fontawesome5
 \ufontawesomefree1.fd)
 
 LaTeX Font Warning: Font shape `U/fontawesomefree1/large/n' undefined
-(Font)              using `U/fontawesomefree1/m/n' instead on input line 174.
+(Font)              using `U/fontawesomefree1/m/n' instead on input line 167.
 
 LaTeX Font Info:    Font shape `U/fontawesomefree1/m/n' in size <10.95> not ava
 ilable
 (Font)              Font shape `U/fontawesomefree1/regular/n' tried instead on 
-input line 174.
+input line 167.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 180.
+nput line 169.
 
 (C:\ProgramData\scoop\apps\miktex\current\texmfs\install\tex/latex/fontawesome5
 \ufontawesomefree2.fd)
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 202.
+(Font)              <10> on input line 191.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 202.
+(Font)              <7> on input line 191.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 202.
+(Font)              <5> on input line 191.
 
 
 [1
@@ -692,9 +692,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ap}{C:/ProgramData/scoop/apps/miktex/current/texmfs/install/fonts/enc/dvips/bas
 e/8r.enc}{C:/ProgramData/scoop/apps/miktex/current/texmfs/install/fonts/enc/dvi
 ps/fontawesome5/fa5brands0.enc}{C:/ProgramData/scoop/apps/miktex/current/texmfs
-/install/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/ProgramData/scoop/apps/miktex/cur
-rent/texmfs/install/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/ProgramData/s
-coop/apps/miktex/current/texmfs/install/fonts/enc/dvips/fontawesome5/fa5free2.e
+/install/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/ProgramData/scoop/apps/m
+iktex/current/texmfs/install/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Prog
+ramData/scoop/apps/miktex/current/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.e
 nc}] 
 enddocument/afterlastpage: lastpage setting LastPage.
 
@@ -716,7 +716,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  15535 strings out of 473898
  267920 string characters out of 5721270
- 1940960 words of memory out of 5000000
+ 1943960 words of memory out of 5000000
  38192 multiletter control sequences out of 15000+600000
  595397 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -730,7 +730,7 @@ nt/texmfs/install/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/ProgramData/scoop
 /apps/miktex/current/texmfs/install/fonts/type1/bitstrea/charter/bchr8a.pfb><C:
 /ProgramData/scoop/apps/miktex/current/texmfs/install/fonts/type1/public/lm/lms
 y10.pfb>
-Output written on index.pdf (1 page, 72002 bytes).
+Output written on index.pdf (1 page, 71975 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
